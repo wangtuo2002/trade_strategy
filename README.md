@@ -1,2 +1,1 @@
-# trade_strategy
-An Elegant Stock Investment Strategy
+# An Elegant Stock Investment Strategy
